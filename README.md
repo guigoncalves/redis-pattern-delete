@@ -10,8 +10,12 @@ Nodejs programm to delete keys from pattern.
 
   - Make sure you have nodejs installed on your machine
   - Create environment variables 
-    -  cacheHost=<RedisHost>
-    -  cachePassword=<RedisPassword>
+  
+  | VariableName | Value |
+  | ------ | ------ |
+  | cacheHost | your cache host |
+  | cachePassword | your cache password |
+
   - On project root:
     ```sh
     $ npm install 
